@@ -8,3 +8,5 @@ Also demo release note drafters
 
 
 Show off release grouping
+
+Show semantic versioning
